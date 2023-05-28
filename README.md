@@ -14,9 +14,9 @@ a saavy programmer but developing
 an investing strategy is not
 yet your forte. 
 
-By no means am I an expert on either subject,
-in fact I have found myself on both of the situations
-    desc.:z ( 2
+By no means am I an expert on either subject, having 
+have found myself in both the situations described above
+sometime ago.
 as I am still continuing to learn more about investing and 
 programming everyday. =]  ~
 Again my aim here is to help establish enough of a
