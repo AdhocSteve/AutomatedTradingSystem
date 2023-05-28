@@ -26,11 +26,15 @@ to aid in the developement of ones own trading stratgies that will
 eventually implement them with some confidence out in the
 real world. 
 
-which is why this journal 
-The outline for this will be something like
-- setting up your development environment
-- the Robinhood API
-- cleaning up data
-- fundamental 
+So without further ado lets begin. The way I'm thinking of structuring this repo
+is by taking The Intelligent Investor approach while supplementing from excerpts mostly I have found useful from Investopedia, Medium, Youtube and the Intelligent Investor, Investopedia . I've been reading the 2006 version of this
+book and I have to admit highly insightful and highly recommended. 
+The outline for this repo will be something like this: 
+- setting up your development environment (handled further down in this README)
+- the Robinhood API and processing data
+- building a portfolio via fundamental analysis
+- Entry and Exit points via Technical Analysis
+Supplemented with excerpts mostly from the Intelligent Investor, a book worth anyones time reading,, as well as other useful material from 
+Investopeida, Medium, Youtube and other great sources that I will be sure to cite. 
 
 
