@@ -14,8 +14,17 @@ a saavy programmer but developing
 an investing strategy is not
 yet your forte. 
 
-My aim here is to establish enough of a
-foundation 
+By no means am I an expert on either subject,
+in fact I have found myself on both of the situations
+    desc.:z ( 2
+as I am still continuing to learn more about investing and 
+programming everyday. =]  ~
+Again my aim here is to help establish enough of a
+foundation both in the investing and programming sense
+so that one can develope their own stratgies and
+eventually implement them with some confidence out in the
+real world. 
+
 Having have found myself on both 
 of these situations I 
 
