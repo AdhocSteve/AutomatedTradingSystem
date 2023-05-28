@@ -7,15 +7,12 @@ starting their own journey as well.
 
 Some may relate to the struggle of 
 finding what seems to be a promising
- tutorial fillwed with script that 
-can not be executed and debu
-I began
-I knew little to nothing about programming
-in python. 
- 
+tutorial filled with script that 
+cannot be executed and debugging is still
+a foreign concept. 
 
 The outline for this will be something like
 - Tools, setting up your development environment
-- Data, 
+- Data Aquisitio
 
 
