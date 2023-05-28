@@ -16,17 +16,15 @@ yet your forte.
 
 By no means am I an expert on either subject, having 
 have found myself in both the situations described above
-sometime ago.
-as I am still continuing to learn more about investing and 
-programming everyday. =]  ~
-Again my aim here is to help establish enough of a
-foundation both in the investing and programming sense
-so that one can develope their own stratgies and
+sometime ago. Again my aim here is primarily to document my own 
+algorithmic journey but perhaps someone else can benefit from my memoir 
+on the subject. 
+
+By benefit I mean establish enough of a foundat
+foundation both in the investing and programming sense 
+to aid in the developement of your own stratgies then
 eventually implement them with some confidence out in the
 real world. 
-
-Having have found myself on both 
-of these situations I 
 
 
 which is why this journal 
