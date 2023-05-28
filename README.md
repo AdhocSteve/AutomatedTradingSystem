@@ -14,8 +14,10 @@ a saavy programmer but developing
 an investing strategy is not
 yet your forte. 
 
-I have found myself on both 
-of these situations hence this journal. 
+My aim here is to establish enough of a
+foundation 
+Having have found myself on both 
+of these situations I 
 
 
 which is why this journal 
