@@ -23,18 +23,24 @@ surrounding the subject. Of course I welcome any feedback and questions.
 By benefit I mean establish enough of a 
 foundation both in the investing and programming sense 
 to aid in the developement of ones own trading stratgies that will 
-eventually implement them with some confidence out in the
+eventually be implemented with some confidence out in the
 real world. 
 
-So without further ado lets begin. The way I'm thinking of structuring this repo
-is by taking The Intelligent Investor approach while supplementing from excerpts mostly I have found useful from Investopedia, Medium, Youtube and the Intelligent Investor, Investopedia . I've been reading the 2006 version of this
-book and I have to admit highly insightful and highly recommended. 
+So without further ado lets begin.
 The outline for this repo will be something like this: 
 - setting up your development environment (handled further down in this README)
 - the Robinhood API and processing data
 - building a portfolio via fundamental analysis
 - Entry and Exit points via Technical Analysis
+- Building a Trading Agent
+- Backtesting
+  
 Supplemented with excerpts mostly from the Intelligent Investor, a book worth anyones time reading,, as well as other useful material from 
 Investopeida, Medium, Youtube and other great sources that I will be sure to cite. 
+
+# Setting Up Your Development Environment
+Alright I'll assume that if you're browsing Git then you are already familiar with either Ubuntu, WSL2, Docker or Anaconda. 
+
+
 
 
