@@ -39,7 +39,12 @@ Supplemented with excerpts mostly from the Intelligent Investor, a book worth an
 Investopeida, Medium, Youtube and other great sources that I will be sure to cite. 
 
 # Setting Up Your Development Environment
-Alright I'll assume that if you're browsing Git then you are already familiar with either Ubuntu, WSL2, Docker or Anaconda. 
+Alright I'll assume that if you're browsing Git then you are already familiar with either Ubuntu, WSL2, Docker or Anaconda. Here I used miniconda with python 3.9
+
+So here are the steps.
+1. Download Miniconda
+2. Fork then clone this repository. 
+3. 
 
 
 
