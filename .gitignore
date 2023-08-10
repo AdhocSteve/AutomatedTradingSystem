@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+financialPlan.ipynb
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
