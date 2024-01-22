@@ -82,7 +82,6 @@ print(data)
 macd = ta.macd(data['Close'])
 print(macd)
 
-
 data = pd.concat([data, macd], axis=1).reindex(data.index)
 print(data)
 
