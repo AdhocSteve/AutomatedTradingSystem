@@ -24,7 +24,7 @@ def rh_login():
     # args = vars(ap.parse_args())
 
     # r.login(args['email'],args['password'],expiresIn=86400,by_sms=True)
-    r.login('adhocsteve@outlook.com','RobinPass99',expiresIn=86400)
+    r.login('','',expiresIn=86400)
     
 def candle_indicator(stock_df, view=False):
 
