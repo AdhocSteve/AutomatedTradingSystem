@@ -1,0 +1,62 @@
+sudo apt-get update
+    2  sudo apt-get install wget ca-certificates
+    3  code .
+    4  sudo apt-get install git
+    5  git config --global user.name "AdhocSteve"
+    6  git config --global user.email "adhocsteve@outlook.com"
+    7  sudo apt update && sudo apt upgrade
+    8  code .
+    9  ls
+   10  ssh-keygen -t ed25519 -C "your_email@example.com"
+   11  ssh-keygen -t ed25519 -C "adhocsteve@outlook.com"
+   12  eval "$(ssh-agent -s)"
+   13  ssh-add ~/.ssh/id_ed25519
+   14  cat ~/.ssh/id_ed25519.pub
+   15  ls
+   16  clear
+   17  ls
+   18  git clone git@github.com:AdhocSteve/AutomatedTradingSystem.git
+   19  ls
+   20  cd AutomatedTradingSystem/
+   21  ls
+   22  code .
+   23  python
+   24  /usr/bin/python3 /home/adhocsteve/AutomatedTradingSystem/fundamental_analysis.py
+   25  python
+   26  ls
+   27  sudo rm Anaconda3-2025.06-0-Linux-x86_64.sh 
+   28  ls
+   29  /usr/bin/python3 /home/adhocsteve/AutomatedTradingSystem/00_robinhood_API/rh_stock_functions.py
+   30  conda activate ATS_beta
+   31  /home/adhocsteve/AutomatedTradingSystem/.conda/bin/python /home/adhocsteve/AutomatedTradingSystem/00_robinhood_API/rh_stock_functions.py
+   32  conda install robin_stocks
+   33  ls
+   34  cd 00_robinhood_API/
+   35  ls
+   36  python rh_stock_functions.py 
+   37  python3 rh_stock_functions.py 
+   38  pip install yahoo-fin
+   39  echo $PATH
+   40  source .bashrc
+   41  source ~/.bashrc
+   42  conda activate ATS_beta
+   43  ls
+   44  echo $PATH
+   45  python3 rh_stock_functions.py 
+   46  pip install requests_html
+   47  pip install matplotlib
+   48  python3 rh_stock_functions.py 
+   49  pip install mplfinance
+   50  python3 rh_stock_functions.py 
+   51  pip install request_html
+   52  conda deactivate
+   53  conda activate ATS_beta
+   54  python3 rh_stock_functions.py 
+   55  conda list
+   56  python
+   57  python3
+   58  history
+   59  python3 rh_stock_functions.py 
+   60  python3 rh_stock_functions.py -e adhocsteve@outlook.com -p RobinPass99
+   61  history
+(ATS_beta) adho

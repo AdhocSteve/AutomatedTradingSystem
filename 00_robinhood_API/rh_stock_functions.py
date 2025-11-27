@@ -14,15 +14,18 @@ The purpose of this script is to extract fundamental data using the RobinHood AP
 # from indicators import sigmas, moving_average_indicator, fractal_indicator
 # from universe import sp500_list, nasdaq_list, dow_list
 
+
+
 def rh_login():
     # construct the argument parse and parse the arguments
-    ap = argparse.ArgumentParser()
-    ap.add_argument("-e", "--email", required=True, help="robinhood email")
-    ap.add_argument("-p", "--password", required=True,help="robinhood password")
-    args = vars(ap.parse_args())
+    # ap = argparse.ArgumentParser()
+    # ap.add_argument("-e", "--email", required=True, help="robinhood email")
+    # ap.add_argument("-p", "--password", required=True,help="robinhood password")
+    # args = vars(ap.parse_args())
 
-    r.login(args['email'],args['password'],expiresIn=86400,by_sms=True)
-
+    # r.login(args['email'],args['password'],expiresIn=86400,by_sms=True)
+    r.login('adhocsteve@outlook.com','RobinPass99',expiresIn=86400)
+    
 def candle_indicator(stock_df, view=False):
 
     print(stock_df.info)
